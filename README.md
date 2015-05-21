@@ -1,2 +1,0 @@
-# meetups
-Meetups - DevMT
