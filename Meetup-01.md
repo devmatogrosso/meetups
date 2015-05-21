@@ -1,4 +1,4 @@
-## Meetup #01
+## Meetup 01
 ===
 * **Tema:** ASP.NET 5 e C#
 * **Data:** 09/05/2015
