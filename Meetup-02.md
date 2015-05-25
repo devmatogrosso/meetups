@@ -6,7 +6,7 @@
 * **Local:** Nuvem Tecnologia
 * **Endereço:** Av. Beira Rio, nº 4435, Dom Aquino - Cuiabá
 * **Patrocinador:** Nuvem Tecnologia, High5Devs.com, Comunidade
-* **Participantes:** -
+* **Participantes:** 23
 
 Talk:
 
