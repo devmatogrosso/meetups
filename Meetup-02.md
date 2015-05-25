@@ -8,8 +8,12 @@
 * **Patrocinador:** Nuvem Tecnologia, High5Devs.com, Comunidade
 * **Participantes:** 23
 
-Talk:
+## Talk:
 
 | talk           | Quem          | GitHub       |
 |----------------|---------------|--------------|
 | Git/Github     | [Gabriel Pedro](https://twitter.com/gpedro_) | [gpedro](https://github.com/gpedro)
+
+## Conteúdo
+Slides: https://gpedro.github.io/presentation-git-github
+Guide: https://rogerdudler.github.io/git-guide/index.pt_BR.html

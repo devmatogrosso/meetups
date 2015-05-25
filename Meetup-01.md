@@ -12,3 +12,7 @@
 | talk           | Quem          | GitHub
 |----------------|---------------|---------------
 | ASP.NET 5 e C# | [Mahmoud Ali](https://twitter.com/akamud) | [akamud](https://github.com/akamud)
+
+## Conteúdo
+Slides: http://1drv.ms/1zPTRM3
+Demo mostrado: https://github.com/akamud/meetup-aspnet5-vs-demo
