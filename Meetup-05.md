@@ -15,4 +15,4 @@
 
 
 ##Conteudo
-Slides: [PDF](https://github.com/EduardoMRB/devmt-clojure-meetup/raw/master/presentation.pdf) [Source](https://github.com/EduardoMRB/devmt-clojure-meetup)
+Slides: [[PDF]](https://github.com/EduardoMRB/devmt-clojure-meetup/raw/master/presentation.pdf) [[Source]](https://github.com/EduardoMRB/devmt-clojure-meetup)
