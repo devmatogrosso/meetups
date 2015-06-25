@@ -13,3 +13,7 @@
 |----------------|---------------|---------------
 | ASP.NET 5 e C# | Luan Castro | [castrolol](https://github.com/castrolol)
 
+##Conteudo
+[Slides](http://slides.com/castrolol/deck-3#/)
+
+[React Examples](https://github.com/castrolol/react-examples)
