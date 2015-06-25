@@ -15,4 +15,5 @@
 
 ##Conteudo
 Slides: [Slides](http://slides.com/nelsoncorreav-junior/deck#/)
+
 Demo: [MeetupMT AngularJS](https://github.com/ircnelson/meetup-mt-angularjs)
