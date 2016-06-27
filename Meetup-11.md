@@ -11,4 +11,4 @@
 
 | talk           | Quem          | GitHub
 |----------------|---------------|---------------
-| Android e Eu - Conceitos Iniciais | Luan Castro| [castrolol](https://github.com/casatrolol)
+| Android e Eu - Conceitos Iniciais | Luan Castro| [castrolol](https://github.com/castrolol)
