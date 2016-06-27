@@ -1,14 +1,14 @@
 ## Meetup 11
 ===
-* **Tema:** Android e Eu: Conceitos Iniciais
-* **Data:** 25/06/2016
-* **Local:** Escritorio+
-* **Endereço:** Rua A, 07 St. Centro Sul - Morada do Ouro
-* **Patrocinador:** DevMatoGrosso
-* **Participantes:** 20
+* **Tema:** Introdução ao Angular 2
+* **Data:** 09/04/2016
+* **Local:** Arena Pantanal
+* **Endereço:** Av. Agrícola Paes de Barros, S/N - Verdão, Cuiabá-MT
+* **Patrocinador:** GAE, DevMatoGrosso
+* **Participantes:** 15
 
 ##Talk:
 
 | talk           | Quem          | GitHub
 |----------------|---------------|---------------
-| Android e Eu - Conceitos Iniciais | Luan Castro| [castrolol](https://github.com/castrolol)
+| Introdução ao Angular 2 | Dhyego Fernando| [dhyegofernando](https://github.com/dhyegofernando)
