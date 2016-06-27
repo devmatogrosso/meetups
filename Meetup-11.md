@@ -12,3 +12,6 @@
 | talk           | Quem          | GitHub
 |----------------|---------------|---------------
 | Introdução ao Angular 2 | Dhyego Fernando| [dhyegofernando](https://github.com/dhyegofernando)
+
+##Conteudo
+[Slides](http://pt.slideshare.net/DhyegoFernando/introduction-to-angular-2-60750873)
